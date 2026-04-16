@@ -14,5 +14,10 @@
 # if x == 1 :
 #     print("incorrect")   
 
-x = "S"
-print("S" == x) 
+
+# x = "S"
+# print("S" == x) 
+
+# fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+# print(fruits.Apples())
+
